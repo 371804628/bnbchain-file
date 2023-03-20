@@ -1,0 +1,2 @@
+# bnbchain-file
+example
